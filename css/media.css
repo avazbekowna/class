@@ -1,0 +1,493 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+
+    .best-img {
+        margin-left: 9px;
+    }
+
+    .footer-icon {
+        margin-left: 1115px;
+    }
+
+    .teach-img img {
+        width: 100%;
+    }
+
+    .best-img {
+        margin-left: -127px;
+    }
+
+    .mini-block2 img {
+        margin-left: 20px;
+    }
+
+    .mini-block img {
+        width: 460px;
+    }
+
+    .mini-block2 img {
+        width: 460px;
+    }
+
+    .teach-button {
+        width: 235px;
+        height: 47px;
+        font-size: 18px;
+        margin-left: 304px;
+    }
+
+    .line {
+        margin-left: 430px;
+    }
+
+    .hero-block h2 {
+        margin-left: -147px;
+    }
+
+    .teach-button {
+        margin-left: 509px;
+    }
+
+}
+
+@media (max-width: 1200px) {
+    .footer-icon {
+        margin-left: 958px;
+    }
+
+    .courses-block1 {
+        margin-left: 26px;
+        width: 90%;
+    }
+
+
+}
+
+@media (max-width: 1024px) {
+    .hero-block h1 {
+        font-size: 36px;
+    }
+
+    .hero-block p {
+        font-size: 16px;
+    }
+
+    .hero-block button {
+        width: 182px;
+        height: 39px;
+        font-size: 17px;
+        margin-left: 355px;
+        margin-top: 20px;
+    }
+
+    .hero-block h2 {
+        font-size: 10px;
+        margin-left: -30px;
+    }
+
+    .img1 {
+        margin-left: -100px;
+    }
+
+    .shoot1 h1 {
+        font-size: 44px;
+    }
+
+    .shoot1 p {
+        font-size: 20px;
+    }
+
+    .text2 h1 {
+        font-size: 44px;
+    }
+
+    .text p {
+        font-size: 20px;
+    }
+
+    .elements1 h1 {
+        font-size: 44px;
+    }
+
+    .elements1 p {
+        font-size: 20px;
+    }
+
+    .link2 h1 {
+        font-size: 40px;
+    }
+
+    .link p {
+        font-size: 19px;
+    }
+
+    .best-block h1 {
+        font-size: 44px;
+    }
+
+    .line {
+        width: 105px;
+        height: 3px;
+        margin-left: 248px;
+    }
+
+    .best-block p {
+        font-size: 19px;
+    }
+
+    .teach-block2 img {
+        width: 100%;
+    }
+
+    .best-img {
+        margin-left: -297px;
+    }
+
+    .teach-block h1 {
+        font-size: 56px;
+    }
+
+    .teach-block p {
+        font-size: 23px;
+    }
+
+    .courses-title {
+        font-size: 49px;
+    }
+
+    .footer-icon {
+        margin-left: 778px;
+    }
+    .offer-img img {
+        width: 90%;
+    }
+
+
+
+}
+
+@media (max-width: 992px) {
+    .best-my{
+        padding: 0 3px;
+    }
+
+
+}
+
+@media (max-width: 768px) {
+    .container{
+        width: 100%;
+    }
+    .hamburger-menu{
+        display: block;
+    }
+    .header-block a{
+        display: none;
+    }
+    .header-but button{
+        display: none;
+    }
+    .hero-block img {
+        width: 90%;
+        margin-left: 22px;
+        position: relative;
+    }
+    .hero-img2 img{
+        width: 90%;
+        margin-left: -150px;
+        margin-top: 200px;
+    }
+    .img1 {
+        margin-left: 14px;
+    }
+    .contact{
+        width: 90%;
+    }
+    .hero-block{
+        margin-left: -50px;
+    }
+
+    .contact img{
+        width: 90%;
+    }
+    .contact2 img{
+        width: 270px;
+        margin-left: 270px;
+        margin-top: -540px;
+    }
+    .shoot-block {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .text-block {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .text1 img{
+        width: 90%;
+        margin-left: 30px;
+    }
+    .elements-block {
+        justify-content: center;
+        flex-direction: column;
+        padding-top: 20px;
+    }
+    .link-block {
+        justify-content: center;
+        flex-direction: column;
+        padding-top: 20px;
+    }
+    .best-img {
+        justify-content: center;
+        margin-left: -120px;
+        flex-wrap: wrap;
+        padding-left: 138px;
+    }
+    .best-my{
+        margin-bottom: 30px;
+    }
+    .offer-block h2 {
+        font-size: 18px;
+    }
+    .offer-block h1 {
+        font-size: 39px;
+    }
+    .offer-block p {
+        font-size: 18px;
+    }
+    .teach-block {
+        height: 358px;
+    }
+    .teach-block button {
+        margin-left: 220px;
+    }
+    .teacher h1 {
+        font-size: 23px;
+    }
+    .courses-block1 {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .mini-block img{
+        padding-bottom: 30px;
+        margin-left: 15px;
+    }
+    .footer-block {
+        justify-content: center;
+        padding: 81px 10px;
+    }
+    .footer-icon div{
+        margin-left: -100px;
+    }
+    .footer-icon {
+        margin-top: -335px;
+    }
+    .footer-block div{
+        padding: 0 50px;
+    }
+
+
+
+
+
+
+}
+
+@media (max-width: 576px) {
+
+    .footer-icon{
+        display: none;
+    }
+    .hero button{
+        margin-left: 190px;
+    }
+    .img1{
+        margin-left: -50px;
+    }
+    .shoot-img{
+        margin-left: -30px;
+
+    }
+    .teach-block h1 {
+        font-size: 44px;
+    }
+    .teach-block button{
+        margin-left: 130px;
+    }
+    .teach-block {
+        height: 335px;
+        width: 90%;
+    }
+    .offer-block h1 {
+        font-size: 30px;
+    }
+    .hero-block h1 {
+        font-size: 32px;
+    }
+    .hero-block p {
+        font-size: 13px;}
+
+        .shoot-img div{
+        width: 90%
+        }
+        .text div{
+            width: 90%;
+        }
+        .elements-block div{
+            width: 90%;
+        }
+        .elements2 img{
+            width: 90%;
+        }
+        .link1 img{
+            width: 90%;
+        }
+        .line{
+            display: none;
+        }
+        .link2{
+            width: 90%;
+        }
+        .hero-block {
+            width: 90%;
+
+        }
+    .hero-block h1 {
+        font-size: 21px;
+        margin-left: 136px;
+    }
+    .hero-block p {
+        font-size: 13px;
+        margin-left: 127px;
+    }
+    .hero button {
+        margin-left: 228px;
+    }
+    .hero-block h2 {
+        font-size: 10px;
+        margin-left: 100px;
+    }
+    .hero-img{
+        margin-left: -20px;
+    }
+
+
+}
+
+
+@media (max-width: 451px) {
+    .teach-block h1 {
+        font-size: 33px;
+    }
+    .teach-block p {
+        font-size: 18px;
+    }
+    .teach{
+        width: 90%;
+    }
+    .teach-block button {
+        margin-left: 63px;
+    }
+    .teach {
+        margin-left: 38px;
+    }
+    .contact2 img{
+        height: 400px;
+        margin-left: 200px;
+        margin-top: -430px;
+    }
+    .hero-block h1 {
+        font-size: 19px;
+        margin-left: 121px;
+    }
+    .hero-img img{
+        padding-left: 110px;
+    }
+    .courses-block1 div img{
+        width: 300px;
+    }
+    .teacher h1 {
+        font-size: 12px;
+    }
+    .courses-title {
+        font-size: 38px;
+    }
+    .best-block p {
+        font-size: 13px;
+    }
+    .best-block h1 {
+        font-size: 22px;
+    }
+    .footer-block {
+        padding: 87px 10px;
+        flex-wrap: wrap;
+    }
+    .footer-logo img {
+        margin-left: 68px;
+    }
+
+}
+
+@media (max-width: 400px) {
+    .footer-block div {
+        padding-bottom: 36px;
+    }
+    .contact2 img{
+        width: 200px;
+    }
+    .hero-block button {
+        width: 129px;
+        height: 28px;
+        font-size: 13px;
+        margin-left: 180px;
+        margin-top: 14px;
+    }
+    .hero-block h2 {
+        font-size: 10px;
+        margin-left: 122px;
+    }
+    .teach-button {
+        width: 185px;
+        height: 37px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 376px) {
+    .hero-img img{
+        width: 360px;
+    }
+}
+
+@media (max-width: 320px) {
+    .contact2 img {
+        width: 150px;
+        margin-left: 167px;
+        padding-top: 65px;
+    }
+    .teach-block button{
+        margin-left: 41px;
+    }
+    .hero-img img {
+        padding-left: 54px;
+    }
+    .courses-block1{
+        margin-left: 5px;
+    }
+    .teacher h1{
+        font-size: 12px;
+    }
+    .teacher p{
+        font-size: 9px;
+    }
+
+}
+
+
+
+
+
